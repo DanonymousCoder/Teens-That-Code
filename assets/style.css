@@ -6,7 +6,7 @@
     font-family: 'Roboto', sans-serif;
 }
 .container .fir-head {
-    background-color: #338eda;
+    background-color: #ff5f37b7;
 }
 nav {
    
@@ -89,6 +89,10 @@ header {
   .hero header p.sub {
     font-weight: 400;
     font-size: 20px;
+  }
+  #about {
+    padding: 10px 50px;
+    margin-left: 70px;
   }
   #about h2 {
     font-size: 40px;
