@@ -39,6 +39,7 @@ nav ul li a {
 .hero {
     background-color: #ffffff;
     color: #338eda;
+    display: flex;
     min-height: 83.5vh;
     min-width: 100%;
     align-items: center;
