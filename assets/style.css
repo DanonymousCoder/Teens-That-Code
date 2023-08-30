@@ -32,7 +32,7 @@ nav ul li a {
     border-radius: 10px;
 }
 #join:hover {
-    background-color: #f1c40f;
+    background-color: rgb(255, 81, 0);
     border: none;
 }
 .hero {
