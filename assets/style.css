@@ -43,6 +43,7 @@ nav ul li a {
 .hero {
     background-image: url("./img/hero.png");
     background-repeat: no-repeat;
+    width: 100%;
 }
 header {
     padding: 10px 50px;
