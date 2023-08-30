@@ -43,6 +43,9 @@ nav ul li a {
     min-height: 83.5vh;
     min-width: 100%;
 }
+header {
+    margin-left: 100px;
+}
 .cta-button {
     background-color: #33d6a6;
     color: white;
