@@ -132,5 +132,8 @@ header {
   }
   #benefit {
     background-color: #338eda; 
-    color: white;
+  }
+  .benefit {
+    padding: 30px 50px;
+    margin-left: 70px;
   }
