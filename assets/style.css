@@ -130,3 +130,7 @@ header {
     line-height: 30px;
     padding-top: 10px;
   }
+  #benefit {
+    background-color: #f1c40f; 
+    color: black;
+  }
