@@ -42,13 +42,13 @@ nav ul li a {
 }
 .hero {
     background-color: #ffffff;
-    color: #338eda;
-    display: flex;
-    min-height: 83.5vh;
-    min-width: 100%;
+   
 }
 header {
     margin-left: 300px;
+    color: #338eda;
+    min-height: 83.5vh;
+    min-width: 100%;
 }
 .cta-button {
     background-color: #33d6a6;
