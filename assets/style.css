@@ -95,6 +95,9 @@ header {
     margin-left: 70px;
     background-color: ;
   }
+  .about {
+    padding: 10px 50px;
+  }
   #about h2 {
     font-size: 40px;
   }
