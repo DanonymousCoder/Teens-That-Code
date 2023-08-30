@@ -43,6 +43,7 @@ nav ul li a {
 .hero {
     background-image: url("./img/hero.png");
     background-repeat: no-repeat;
+    object-fit: contain;
     width: 100%;
     min-height: 83.5vh;
 }
