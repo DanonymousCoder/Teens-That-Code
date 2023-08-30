@@ -75,7 +75,11 @@ header {
     min-height: 80vh;
     align-items: center;
     justify-content: center;
+    gap: 1rem;
   }
   .hero header p.head {
     font-size: 45px;
+  }
+  .hero header p.head span {
+    font-style: italic;
   }
