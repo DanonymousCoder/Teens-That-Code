@@ -45,7 +45,7 @@ nav ul li a {
     background-repeat: no-repeat;
     width: 100%;
     min-height: 83.5vh;
-    min-width: 100%;
+    width: 100%;
 }
 header {
     padding: 10px 50px;
