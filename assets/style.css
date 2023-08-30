@@ -65,6 +65,7 @@ header {
     background-color: #33d6a6;
     color: white;
     padding: 15px 30px;
+    font-weight: 400;
     border: none;
     border-radius: 5px;
     cursor: pointer;
