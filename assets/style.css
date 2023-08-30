@@ -10,6 +10,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 0 50px;
 }
 nav ul {
     display: flex;
