@@ -137,3 +137,10 @@ header {
     padding: 30px 50px;
     margin-left: 70px;
   }
+  .benefit ul li {
+    list-style-type: none;
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 10px;
+    color: white;
+  }
