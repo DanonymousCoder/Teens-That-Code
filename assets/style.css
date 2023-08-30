@@ -44,7 +44,7 @@ nav ul li a {
     background-image: url("./img/hero.png");
     background-repeat: no-repeat;
     object-fit: contain;
-    width: 100%;
+    background-size: contain;
     min-height: 83.5vh;
 }
 header {
