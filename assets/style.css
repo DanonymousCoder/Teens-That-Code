@@ -62,7 +62,7 @@ header {
     font-size: 20px;
 }
 .cta-button {
-    background-color: #33d6a6;
+    background-color:rgb(255, 81, 0);
     color: white;
     padding: 15px 30px;
     font-weight: 400;
@@ -100,7 +100,7 @@ header {
   }
   #about h2 {
     font-size: 40px;
-    color: orangered;
+    color: rgb(255, 81, 0);
     padding-bottom: 50px;
     padding-top: 30px;
   }
