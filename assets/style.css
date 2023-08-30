@@ -69,6 +69,11 @@ header {
     border-radius: 5px;
     cursor: pointer;
   }
+  .hero header {
+    display: flex;
+    flex-direction: column;
+    min-height: 83.5px;
+  }
   .hero header p.head {
     font-size: 40px;
   }
