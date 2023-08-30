@@ -61,3 +61,6 @@ header {
     display: flex;
     gap: 1 rem;
   }
+  .hero header .image img {
+    padding: 50px;
+  }
