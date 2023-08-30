@@ -46,7 +46,7 @@ nav ul li a {
     object-fit: cover;
 }
 .hero {
-    background-image: url("./img/hero.png");
+    background-image: url("./img/hero.jpeg");
     background-repeat: no-repeat;
     width: 100%;
 }
