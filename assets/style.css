@@ -31,6 +31,7 @@ nav ul li a {
     color: white;
 }
 #join {
+    border: none;
     border: 3px solid white;
     background-color: transparent;
     padding: 10px 15px;
@@ -108,7 +109,7 @@ header {
     padding: 10px 50px;
     margin-left: 70px;
   }
-  #about h2 {
+  #about {
     font-size: 40px;
     color: rgb(255, 81, 0);
     padding-bottom: 50px;
