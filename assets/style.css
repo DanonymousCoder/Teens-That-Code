@@ -41,13 +41,14 @@ nav ul li a {
     border: none;
 }
 .hero {
-    background-image: url("./img/hero.png");
+   width: 100%;
     background-repeat: no-repeat;
     object-fit: contain;
     background-size: contain;
     min-height: 83.5vh;
 }
 header {
+    background-image: url("./img/hero.png");
     padding: 10px 50px;
     margin-left: 100px;
     color: #338eda;
