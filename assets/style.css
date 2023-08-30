@@ -53,6 +53,7 @@ header {
 }
 .logo {
     align-items: center;
+    justify-content: center;
 }
 .logo p {
     color: white;
