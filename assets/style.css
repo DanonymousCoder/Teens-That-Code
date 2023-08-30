@@ -78,7 +78,7 @@ header {
     border-radius: 15px;
   }
   #activities {
-    background-color: #f1c40f; 
+    background-color: white; 
     color: black;
   }
   .hero header {
@@ -123,4 +123,7 @@ header {
   .activities {
     padding: 30px 50px;
     margin-left: 70px;
+  }
+  .activities ul {
+    list-style-type: none;
   }
