@@ -23,7 +23,7 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     font-size: 30px;
-    color: black;
+    color: white;
 }
 #join {
     border: 3px solid white;
@@ -36,7 +36,7 @@ nav ul li a {
     border: none;
 }
 .hero {
-    background-color: #fffff;
+    background-color: #ffffff;
     color: white;
     min-height: 83.5vh;
     min-width: 100%;
