@@ -42,9 +42,6 @@ nav ul li a {
     display: flex;
     min-height: 83.5vh;
     min-width: 100%;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
 }
 .cta-button {
     background-color: #33d6a6;
