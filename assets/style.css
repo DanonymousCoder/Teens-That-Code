@@ -51,10 +51,12 @@ header {
     min-height: 83.5vh;
     min-width: 100%;
 }
+.logo {
+    align-items: center;
+}
 .logo p {
     color: white;
     font-size: 30px;
-    align-items: center;
 }
 .cta-button {
     background-color: #33d6a6;
