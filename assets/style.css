@@ -40,17 +40,19 @@ nav ul li a {
     background-color: rgb(255, 81, 0);
     border: none;
 }
-.hero {
+.hero-cont {
    width: 100%;
 
     object-fit: cover;
 }
-header {
+.hero {
     background-image: url("./img/hero.png");
+    background-repeat: no-repeat;
+}
+header {
     padding: 10px 50px;
     margin-left: 100px;
     color: #338eda;
-    background-repeat: no-repeat;
     min-height: 83.5vh;
 }
 .logo {
