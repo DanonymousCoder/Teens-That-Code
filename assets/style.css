@@ -27,7 +27,7 @@ nav ul li {
 }
 nav ul li a {
     text-decoration: none;
-    font-size: 25px;
+    font-size: 20px;
     color: white;
 }
 #join {
@@ -59,7 +59,7 @@ header {
 }
 .logo p {
     color: white;
-    font-size: 25px;
+    font-size: 20px;
 }
 .cta-button {
     background-color: #33d6a6;
