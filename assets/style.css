@@ -73,6 +73,8 @@ header {
     display: flex;
     flex-direction: column;
     min-height: 83.5px;
+    align-items: center;
+    justify-content: center;
   }
   .hero header p.head {
     font-size: 40px;
