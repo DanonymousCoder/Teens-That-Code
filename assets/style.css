@@ -5,13 +5,16 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
-nav {
+.head {
     background-color: #338eda;
     color: black;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 10px 50px;
+}
+nav {
+   margin-left: 300px;
 }
 nav ul {
     display: flex;
