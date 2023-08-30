@@ -100,8 +100,11 @@ header {
   }
   #about h2 {
     font-size: 40px;
-    color: #ec3750;
+    color: orangered;
+    padding-bottom: 50px;
+    padding-top: 30px;
   }
-  #about h2 p {
-    color: #ec3750;
+  #about p {
+    color: white;
+    font-size: 20px;
   }
