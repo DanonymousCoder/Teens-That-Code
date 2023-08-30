@@ -42,13 +42,11 @@ nav ul li a {
 }
 .hero-cont {
    width: 100%;
-
-    object-fit: cover;
 }
 .hero {
-    background-image: url("./img/hero.jpeg");
+    background-image: url("./img/hero(2).jpeg");
     background-repeat: no-repeat;
-    width: 10000px;
+ 
 }
 header {
     padding: 10px 50px;
