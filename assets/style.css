@@ -5,7 +5,7 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
-. container .head {
+.container .firhead {
     background-color: #338eda;
     color: black;
     display: flex;
