@@ -84,3 +84,6 @@ header {
     font-style: italic;
     font-weight: 700;
   }
+  .hero header p.sub {
+    font-weight: 400;
+  }
