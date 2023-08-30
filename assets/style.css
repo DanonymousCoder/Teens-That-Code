@@ -8,6 +8,7 @@ nav {
     background-color: #ff8c37;
     color: black;
     display: flex;
+    align-items: center;
 }
 nav ul {
     display: flex;
