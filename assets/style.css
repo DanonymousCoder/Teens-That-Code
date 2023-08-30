@@ -42,9 +42,8 @@ nav ul li a {
 }
 .hero {
    width: 100%;
-    background-repeat: no-repeat;
-    object-fit: contain;
-    background-size: contain;
+
+    object-fit: contain;;
     min-height: 83.5vh;
 }
 header {
@@ -52,7 +51,8 @@ header {
     padding: 10px 50px;
     margin-left: 100px;
     color: #338eda;
-  
+    background-repeat: no-repeat;
+    min-height: 83.5vh;
 }
 .logo {
     align-items: center;
