@@ -61,7 +61,7 @@ header {
     display: flex;
     gap: 1 rem;
   }
-  .hero header .image img {
+  .hero header .image p img {
     height: 50px;
-    width: 50px;
+    width: 20px;
   }
