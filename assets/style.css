@@ -71,6 +71,12 @@ header {
     border-radius: 5px;
     cursor: pointer;
   }
+  .cta-button:hover {
+    border: 3px solid #338eda;
+    color: #338eda;
+    background-color: transparent;
+    border-radius: 15px;
+  }
   .hero header {
     display: flex;
     flex-direction: column;
