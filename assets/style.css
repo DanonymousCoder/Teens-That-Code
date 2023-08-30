@@ -24,6 +24,17 @@ nav ul {
 }
 nav ul li {
     list-style-type: none;
+    position: relative;
+}
+nav ul li::after {
+    content: ' ';
+    height: 3px;
+    width: 0;
+    background: orangered;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 0.5s;
 }
 nav ul li a {
     text-decoration: none;
