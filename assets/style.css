@@ -44,13 +44,14 @@ nav ul li a {
     background-image: url("./img/hero.png");
     background-repeat: no-repeat;
     width: 100%;
+    min-height: 83.5vh;
+    min-width: 100%;
 }
 header {
     padding: 10px 50px;
     margin-left: 100px;
     color: #338eda;
-    min-height: 83.5vh;
-    min-width: 100%;
+  
 }
 .logo {
     align-items: center;
