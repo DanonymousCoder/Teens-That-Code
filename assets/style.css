@@ -57,4 +57,6 @@ header {
     border-radius: 5px;
     cursor: pointer;
   }
-  .hero header .head 
+  .hero header p.head {
+    font-size: 40px;
+  }
