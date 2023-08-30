@@ -102,3 +102,6 @@ header {
     font-size: 40px;
     color: #ec3750;
   }
+  #about h2 p {
+    color: #ec3750;
+  }
