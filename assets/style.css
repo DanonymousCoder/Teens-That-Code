@@ -38,4 +38,5 @@ nav ul li a {
 header {
     background-color: #ec3750;
     color: white;
+    min-height: 70vh;
 }
