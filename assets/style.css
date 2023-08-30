@@ -41,8 +41,8 @@ nav ul li a {
     border: none;
 }
 .hero {
-    background-color: #ffffff;
-   
+    background-image: url("./img/hero.png");
+    background-repeat: no-repeat;
 }
 header {
     padding: 10px 50px;
