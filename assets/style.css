@@ -126,4 +126,7 @@ header {
   }
   .activities ul {
     list-style-type: none;
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 10px;
   }
