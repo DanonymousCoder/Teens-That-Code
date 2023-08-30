@@ -45,7 +45,8 @@ nav ul li a {
    
 }
 header {
-    margin-left: 300px;
+    padding: 10px 50px;
+    margin-left: 100px;
     color: #338eda;
     min-height: 83.5vh;
     min-width: 100%;
