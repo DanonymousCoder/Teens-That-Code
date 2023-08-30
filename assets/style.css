@@ -75,7 +75,6 @@ header {
     min-height: 80vh;
     align-items: center;
     justify-content: center;
-    width: 100%;
   }
   .hero header p.head {
     font-size: 40px;
