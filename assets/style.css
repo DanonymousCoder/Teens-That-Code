@@ -35,11 +35,14 @@ nav ul li a {
     background-color: #f1c40f;
     border: none;
 }
-header {
+.hero {
     background-color: #ec3750;
     color: white;
     min-height: 83.5vh;
     align-items: center;
     justify-content: center;
     text-align: center;
+}
+header {
+   ;
 }
