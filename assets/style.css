@@ -57,3 +57,7 @@ header {
     border-radius: 5px;
     cursor: pointer;
   }
+  .hero header .image {
+    display: flex;
+    gap: 1 rem;
+  }
