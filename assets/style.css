@@ -53,6 +53,8 @@ header {
 }
 .logo p {
     color: white;
+    font-size: 30px;
+    align-items: center;
 }
 .cta-button {
     background-color: #33d6a6;
