@@ -15,7 +15,7 @@ nav {
 nav ul {
     display: flex;
     gap: 2rem;
-    padding-right: 20px;
+    padding-right: 50px;
 }
 nav ul li {
     list-style-type: none;
