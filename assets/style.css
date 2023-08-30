@@ -82,4 +82,5 @@ header {
   }
   .hero header p.head span {
     font-style: italic;
+    font-weight: 700;
   }
