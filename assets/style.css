@@ -14,7 +14,8 @@ nav {
 }
 nav ul {
     display: flex;
-    gap: 1.5rem;
+    gap: 2rem;
+    padding-right: 20px;
 }
 nav ul li {
     list-style-type: none;
