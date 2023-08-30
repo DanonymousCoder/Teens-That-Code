@@ -9,3 +9,6 @@ nav {
     color: black;
     display: flex;
 }
+nav ul {
+    display: flex;
+}
