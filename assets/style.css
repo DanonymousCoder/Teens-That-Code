@@ -51,6 +51,9 @@ header {
     min-height: 83.5vh;
     min-width: 100%;
 }
+.logo p {
+    color: white;
+}
 .cta-button {
     background-color: #33d6a6;
     color: white;
