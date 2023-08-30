@@ -6,16 +6,16 @@
     font-family: 'Roboto', sans-serif;
 }
 .container .fir-head {
-  
+    background-color: #338eda;
 }
 nav {
-    background-color: #338eda;
+   
     color: black;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 10px 50px;
-    margin-left: 200px;
+    margin-left: 100px;
 }
 nav ul {
     display: flex;
