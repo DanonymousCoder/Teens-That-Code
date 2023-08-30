@@ -27,6 +27,8 @@ nav ul li a {
 }
 #join {
     border: 3px solid white;
+    background-color: transparent;
+    padding: 5px 10px;
 }
 #join:hover {
     background-color: #ec3750;
