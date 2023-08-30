@@ -160,9 +160,10 @@ header {
     color: white;
   }
   footer {
-    background-color: #338eda;
+    background-color: #338fdaa8;
   }
   footer p {
     color: white;
     text-align: center;
+    font-size: 25px;
   }
