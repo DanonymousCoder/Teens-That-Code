@@ -27,4 +27,5 @@ nav ul li a {
 }
 #join:hover {
     background-color: #ec3750;
+    border: none;
 }
