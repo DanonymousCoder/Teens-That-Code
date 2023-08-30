@@ -9,6 +9,7 @@ nav {
     color: black;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 nav ul {
     display: flex;
