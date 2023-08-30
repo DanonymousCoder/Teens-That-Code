@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 nav {
-    background-color: #ff8c37;
+    background-color: #338eda;
     color: black;
     display: flex;
     align-items: center;
@@ -39,7 +39,7 @@ nav ul li a {
     background-color: #ec3750;
     color: white;
     min-height: 83.5vh;
-    width: 100%;
+    min-width: 100%;
     align-items: center;
     justify-content: center;
     text-align: center;
