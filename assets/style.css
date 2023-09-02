@@ -81,13 +81,11 @@ header {
     font-size: 20px;
 }
 .cta-button {
-    background-color:rgb(255, 81, 0);
-    color: white;
-    padding: 15px 30px;
-    font-weight: 400;
-    font-size: 20px;
+    background-color: rgb(255, 81, 0);
     border: none;
-    border-radius: 5px;
+    color: white; 
+      padding: 15px 30px;
+      border-radius: 15px 0px 15px 0px;
     cursor: pointer;
   }
   .cta-button:hover {
