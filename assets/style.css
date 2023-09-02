@@ -197,7 +197,7 @@ header {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    padding: 30px;
+    width: 100%;
 }
 .container2 {
     background-color: white;
