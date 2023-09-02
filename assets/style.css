@@ -149,7 +149,7 @@ header {
     font-size: 30px;
     line-height: 30px;
     padding-top: 10px;
-    font-display: indented;
+    text-indent: 5px;
   }
   .activities {
     padding: 30px 50px;
