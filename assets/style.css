@@ -339,7 +339,7 @@ p.sub {
     
 }
 .lname select option {
-  padding-left: 20px;
+  padding-left: 40px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   border: 2px solid black;
 }
