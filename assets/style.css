@@ -327,7 +327,7 @@ p.sub {
     width: 280px;
 }
 .fname select option {
-  padding-left: 10px;
+  padding-left: 20px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   border: 2px solid black;
 }
@@ -339,7 +339,7 @@ p.sub {
     
 }
 .lname select option {
-  padding-left: 10px;
+  padding-left: 20px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   border: 2px solid black;
 }
