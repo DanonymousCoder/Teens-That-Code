@@ -191,13 +191,7 @@ header {
     display: flex;
     gap: 1.5rem;
   }
-.body {
-    background-color: whitesmoke;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-}
+
 .container {
     background-color: white;
     width: 1152px;
