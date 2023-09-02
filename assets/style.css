@@ -164,6 +164,7 @@ header {
     width: 80vh;
     height: 1px;
     border: 1px solid black;
+    margin-top: 50px;
   }
   footer {
     padding: 10px 50px;
