@@ -129,7 +129,7 @@ header {
   .about-us h2 {
     color: #D9D9D9;
   }
-  .about-main {
+  .about-us h2.about-main {
     color: black;
   }
   .about {
