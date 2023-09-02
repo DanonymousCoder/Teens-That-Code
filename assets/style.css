@@ -123,7 +123,7 @@ header {
   }
   .about-us {
     display: flex;
-    gap: 5arem;
+    gap: 2.85rem;
   }
   .about-main {
     color: black;
