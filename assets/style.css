@@ -203,7 +203,7 @@ header {
 .container2 {
   background-color: white;
     width: 1152px;
-    height: 650px;
+    height: 620px;
     display: flex;
     gap: 2rem;
 }
@@ -212,7 +212,7 @@ header {
     background-size: cover;
     background-repeat: no-repeat;
     width: 43%;
-    height: 650px;
+    height: 620px;
     padding-left: 32px;
     color: white;
 }
