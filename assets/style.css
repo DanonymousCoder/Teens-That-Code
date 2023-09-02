@@ -164,6 +164,10 @@ header {
     padding: 50px;
     display: flex;
   }
+  footer .txt {
+    display: flex;
+    gap: 10px;
+  }
   footer p {
     color: black;
     text-align: center;
