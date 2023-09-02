@@ -178,3 +178,6 @@ header {
   footer .links a img {
     height: 30px;
   }
+  footer .links {
+    gap: 1rem;
+  }
