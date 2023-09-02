@@ -226,6 +226,7 @@ header {
 }
 .txt {
     margin-top: 12px;
+    color: black;
 }
 p.head {
     font-family: 'Poppins', sans-serif;
