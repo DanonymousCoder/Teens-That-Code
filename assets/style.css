@@ -201,6 +201,7 @@ header {
     padding: 20px;
 }
 .container2 {
+  background-color: white;
     width: 1152px;
     height: 600px;
     display: flex;
