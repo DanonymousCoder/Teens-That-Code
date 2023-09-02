@@ -50,7 +50,7 @@ nav ul li a {
   border: none;
   color: white; 
     padding: 10px 15px;
-    border-radius: 10px;
+    border-radius: 15px 0px 15px 0px;
 }
 #joint:hover {
     border: 2px solid rgb(255, 81, 0);
