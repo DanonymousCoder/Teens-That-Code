@@ -126,6 +126,9 @@ header {
     gap: 9rem;
     flex-wrap: nowrap;
   }
+  .about-main {
+    color: black;
+  }
   .about {
     padding: 30px 50px;
     margin-left: 70px;
