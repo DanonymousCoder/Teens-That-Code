@@ -160,11 +160,13 @@ header {
     padding-top: 10px;
     color: white;
   }
+  .footer-line {
+    
+  }
   footer {
     padding: 50px;
     display: flex;
     justify-content: space-between;
-    border: 3px 0px 0px 0px solid black;
   }
   footer .txt {
     display: flex;
