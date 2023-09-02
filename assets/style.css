@@ -170,8 +170,6 @@ header {
   }
   footer {
     padding: 30px 50px;
-    display: flex;
-    justify-content: space-between;
     background-color: whitesmoke;
   }
   footer .txt2 {
