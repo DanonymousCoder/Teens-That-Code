@@ -326,6 +326,12 @@ p.sub {
     height: 43px;
     width: 280px;
 }
+.fname select option {
+  padding: 5px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 2px solid black;
+}
 .lname select {
     border: 1px solid black;
     border-radius: 4px;
