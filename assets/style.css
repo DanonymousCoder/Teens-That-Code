@@ -192,7 +192,7 @@ header {
     gap: 1.5rem;
   }
  #join {
-  background-color: grey;
+  background-color: whitesmoke;
   display: flex;
     align-items: center;
     justify-content: center;
