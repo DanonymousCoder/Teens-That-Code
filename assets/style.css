@@ -327,8 +327,7 @@ p.sub {
     width: 280px;
 }
 .fname select option {
-  padding: 5px;
-  text-align: center;
+  padding: 5px 10px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   border: 2px solid black;
 }
