@@ -162,6 +162,7 @@ header {
   }
   .footer-line {
     width: 80vh;
+    height: 1px;
   }
   footer {
     padding: 50px;
