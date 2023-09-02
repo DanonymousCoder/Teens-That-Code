@@ -123,6 +123,7 @@ header {
   }
   .about-us {
     display: flex;
+    gap: 5rem;
   }
   .about {
     padding: 30px 50px;
