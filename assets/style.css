@@ -191,7 +191,7 @@ header {
     display: flex;
     gap: 1.5rem;
   }
-  .body {
+ #join {
     background-color: rgba(245, 245, 245, 0.541);
     display: flex;
     align-items: center;
