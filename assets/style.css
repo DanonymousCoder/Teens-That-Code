@@ -209,6 +209,7 @@ header {
 }
 .left {
     background-color: aqua;
+    background-image: url("./img/Untitled\ \(3\).png");
     background-repeat: no-repeat;
     width: 40%;
     height: 600px;
