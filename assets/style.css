@@ -144,7 +144,7 @@ header {
     top: 212px;
     left: 99px;
     border-radius: 60px;
-
+    box-shadow: 0px 0px 5px 5px;
   }
   #about p {
     color: white;
