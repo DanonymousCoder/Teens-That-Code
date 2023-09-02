@@ -53,7 +53,7 @@ nav ul li a {
     border-radius: 10px;
 }
 #joint:hover {
-    border: 2px solid orange;
+    border: 2px solid rgb(255, 81, 0);
     background-color: transparent;
     border-radius: 10px;
     color: black;
