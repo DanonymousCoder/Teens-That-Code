@@ -46,15 +46,17 @@ nav ul li a {
     color: black;
 }
 #joint {
-    border: 2px solid orange;
-    background-color: transparent;
+  background-color: rgb(255, 81, 0);
+  border: none;
+  color: white;
+   
     padding: 10px 15px;
     border-radius: 10px;
 }
 #joint:hover {
-    background-color: rgb(255, 81, 0);
-    border: none;
-    color: white;
+    border: 2px solid orange;
+    background-color: transparent;
+    border-radius: 10px;
 }
 .hero-cont {
    width: 100%;
