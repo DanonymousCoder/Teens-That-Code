@@ -87,6 +87,7 @@ header {
       padding: 15px 30px;
       border-radius: 15px 0px 15px 0px;
     cursor: pointer;
+    font-size: 23px;
   }
   .cta-button:hover {
     border: 2px solid rgb(255, 81, 0);
