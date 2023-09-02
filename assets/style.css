@@ -338,7 +338,9 @@ textarea {
     width: 222px;
     height: 40px;
     color: white;
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     border: 1px solid #086DB8;
     background-color: #086DB8;
     font-size: 18px;
