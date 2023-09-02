@@ -192,8 +192,8 @@ header {
     gap: 1.5rem;
   }
  #join {
-    background-color: rgba(245, 245, 245, 0.541);
-    display: flex;
+  background-color: blue;
+  display: flex;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
