@@ -299,6 +299,7 @@ p.sub {
     border-radius: 4px;
     height: 40px;
     width: 277px;
+    padding-left: 15px;
 }
 .lname {
     width: 40%;
