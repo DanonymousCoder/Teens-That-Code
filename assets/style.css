@@ -331,12 +331,13 @@ p.sub {
     border-radius: 4px;
     height: 43px;
     width: 280px;
-    border: 1px solid black;
+    
 }
 .lname select option {
   padding: 5px;
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 2px solid black;
 }
 .info {
     margin-top: 20px;
