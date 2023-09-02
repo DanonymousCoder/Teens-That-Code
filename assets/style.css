@@ -124,6 +124,7 @@ header {
   .about-us {
     display: flex;
     gap: 2.6rem;
+    color: #D9D9D9;
   }
   .about-main {
     color: black;
