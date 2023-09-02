@@ -54,6 +54,7 @@ nav ul li a {
 #joint:hover {
     background-color: rgb(255, 81, 0);
     border: none;
+    color: white;
 }
 .hero-cont {
    width: 100%;
