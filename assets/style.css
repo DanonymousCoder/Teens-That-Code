@@ -166,7 +166,7 @@ header {
     border: 1px solid black;
   }
   footer {
-    padding: 50px;
+    padding: 10px 50px;
     display: flex;
     justify-content: space-between;
   }
