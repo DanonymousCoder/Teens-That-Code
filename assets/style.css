@@ -203,7 +203,7 @@ header {
 .container2 {
     background-color: blue;
     width: 1152px;
-    height: 700px;
+    height: 600px;
     display: flex;
     gap: 2rem;
 }
