@@ -208,7 +208,6 @@ header {
     gap: 2rem;
 }
 .left {
-    background-color: aqua;
     background-image: url("./img/Untitled\ \(3\).png");
     background-size: cover;
     background-repeat: no-repeat;
