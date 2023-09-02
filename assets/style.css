@@ -162,6 +162,7 @@ header {
   }
   footer {
     padding: 50px;
+    display: flex;
   }
   footer p {
     color: white;
