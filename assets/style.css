@@ -331,6 +331,7 @@ p.sub {
     border-radius: 4px;
     height: 43px;
     width: 280px;
+    border: 1px solid black;
 }
 .lname select option {
   padding: 5px;
