@@ -170,3 +170,6 @@ header {
     font-size: 20px;
     font-weight: 400;
   }
+  footer .links a img {
+    height: 30px;
+  }
