@@ -121,6 +121,9 @@ header {
   #about {
     background-color: #F5F5F5F5;
   }
+  .about-us {
+    display: flex;
+  }
   .about {
     padding: 30px 50px;
     margin-left: 70px;
