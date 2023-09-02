@@ -164,7 +164,7 @@ header {
     padding: 50px;
     display: flex;
     justify-content: space-between;
-    border: 3px 0 0 0 solid black;
+    border: 3px 0px 0px 0px solid black;
   }
   footer .txt {
     display: flex;
