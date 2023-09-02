@@ -146,9 +146,10 @@ header {
   }
   #about p {
     color: white;
-    font-size: 20px;
+    font-size: 30px;
     line-height: 30px;
     padding-top: 10px;
+    font-display: indented;
   }
   .activities {
     padding: 30px 50px;
