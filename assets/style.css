@@ -179,5 +179,6 @@ header {
     height: 30px;
   }
   footer .links {
+    display: flex;
     gap: 1rem;
   }
