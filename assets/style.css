@@ -165,6 +165,8 @@ header {
     height: 1px;
     border: 1px solid black;
     margin-top: 50px;
+    display: flex;
+    align-self: center;
   }
   footer {
     padding: 10px 50px;
