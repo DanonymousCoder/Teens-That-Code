@@ -177,6 +177,7 @@ header {
   }
   .benefit .head {
     display: flex;
+    color: white;
   }
   .benefit ul li {
     list-style-type: none;
