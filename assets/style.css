@@ -149,7 +149,7 @@ header {
     left: 99px;
     border-radius: 60px;
   }
-  #about p {
+  .about p {
     color: white;
     font-size: 25px;
     font-weight: 500;
