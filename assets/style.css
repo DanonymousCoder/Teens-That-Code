@@ -179,6 +179,9 @@ header {
     display: flex;
     color: white;
   }
+  .benefit .head h2 {
+    margin-right: 30px;
+  }
   .benefit ul li {
     list-style-type: none;
     font-size: 20px;
