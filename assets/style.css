@@ -179,8 +179,8 @@ header {
     display: flex;
     color: white;
   }
-  .benefit .head h2 {
-    margin-right: 30px;
+  .benefit .head h4 {
+   align-self: flex-end;
   }
   .benefit ul li {
     list-style-type: none;
