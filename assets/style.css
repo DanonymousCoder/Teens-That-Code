@@ -121,6 +121,10 @@ header {
   #about {
     background-color: #F5F5F5F5;
     padding: 40px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
   .about-us {
     display: flex;
