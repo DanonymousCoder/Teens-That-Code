@@ -214,6 +214,9 @@ header {
   .star1 {
     position: absolute;
   }
+  .star2 {
+    position: absolute;
+  }
  #contact {
   background-color: whitesmoke;
   display: flex;
