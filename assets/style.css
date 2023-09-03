@@ -213,6 +213,7 @@ header {
   }
   .star1 {
     position: absolute;
+    right: 15px;
   }
   .star2 {
     position: absolute;
