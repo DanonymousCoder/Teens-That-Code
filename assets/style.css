@@ -218,6 +218,7 @@ header {
   .star2 {
     position: absolute;
     left: 20px;
+    top: 200px;
   }
  #contact {
   background-color: whitesmoke;
