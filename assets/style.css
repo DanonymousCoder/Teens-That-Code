@@ -362,6 +362,7 @@ textarea {
     margin-bottom: 35px;
     width: 588px;
     padding-left: 15px;
+    padding-top: 10px;
 }
 .button {
     display: flex;
