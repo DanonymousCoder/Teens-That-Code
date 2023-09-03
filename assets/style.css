@@ -181,12 +181,11 @@ header {
   }
   .benefit .head h2 {
     font-family: Gujarati Sangam MN;
-font-size: 64px;
-font-weight: 700;
-line-height: 70px;
-letter-spacing: 0.01em;
-text-align: left;
-
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: 0.01em;
+    text-align: left;
   }
   .benefit .head h5{
     font-family: Eudoxus Sans;
