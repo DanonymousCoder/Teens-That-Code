@@ -175,6 +175,9 @@ header {
     padding: 30px 50px;
     margin-left: 70px;
   }
+  .benefit .head {
+    display: flex;
+  }
   .benefit ul li {
     list-style-type: none;
     font-size: 20px;
