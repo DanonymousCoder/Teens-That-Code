@@ -185,7 +185,12 @@ header {
     padding: 0px 5px;
   }
   .benefit .head h5{
-   margin-left: 200px;
+    font-family: Eudoxus Sans;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
   }
   .benefit ul li {
     list-style-type: none;
