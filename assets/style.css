@@ -211,6 +211,9 @@ header {
     display: flex;
     gap: 1.5rem;
   }
+  .star1 {
+    position: absolute;
+  }
  #contact {
   background-color: whitesmoke;
   display: flex;
