@@ -222,7 +222,7 @@ header {
 }
 .container2 {
   background-color: white;
-    width: 1062px;
+    width: 1162px;
     height: 520px;
     display: flex;
     gap: 2rem;
@@ -231,7 +231,7 @@ header {
     background-image: url("./img/Untitled\ \(3\).png");
     background-size: cover;
     background-repeat: no-repeat;
-    width: 40%;
+    width: 43%;
     height: 520px;
     padding-left: 32px;
     color: white;
