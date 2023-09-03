@@ -178,6 +178,7 @@ header {
     display: flex;
     color: white;
     gap: 5rem;
+    margin-left: 80px;
   }
   .benefit .head h2 {
     font-family: Gujarati Sangam MN;
