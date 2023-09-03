@@ -155,7 +155,7 @@ header {
     font-weight: 500;
     line-height: 28px;
     padding-top: 10px;
-    text-indent: 1.5rem;
+    padding-left: 10px;
   }
   .activities {
     padding: 30px 50px;
