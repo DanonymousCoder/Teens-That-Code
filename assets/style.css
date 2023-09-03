@@ -223,7 +223,7 @@ header {
 .container2 {
   background-color: white;
     width: 1162px;
-    height: 620px;
+    height: 520px;
     display: flex;
     gap: 2rem;
 }
