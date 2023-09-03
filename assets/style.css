@@ -179,7 +179,7 @@ header {
     display: flex;
     color: white;
   }
-  .benefit .head h4 {
+  .benefit .head h5{
    align-self: flex-end;
   }
   .benefit ul li {
